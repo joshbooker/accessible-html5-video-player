@@ -73,7 +73,7 @@ new InitPxVideo({
 </script>
 ```
 
-### [View Demo](http://paypal.github.io/accessible-html5-video-player/)
+### [View Demo](http://joshbooker.github.io/accessible-html5-video-player/)
 
 ## React Version
 The React version has been designed to be integrated into your react codebase easily. The video React component is named `PXvideo` and has the below API:
